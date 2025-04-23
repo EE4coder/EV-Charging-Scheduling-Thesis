@@ -98,7 +98,7 @@ Freely downloadable for research replication:
 
 ## 📝 How to Cite
 ```bibtex
-@article{Das S, Modi S, Bera S and Dutta R, 2024. Optimal Scheduling of Plugin Electric Vehicles Considering Seasonal Uncertainty. IEMRE 2024, Springer ![image](https://github.com/user-attachments/assets/8edbb6c6-9cd3-4395-a035-b123541e0d9b)
+@article{Das S, Modi S, Bera S and Dutta R, 2024. Optimal Scheduling of Plugin Electric Vehicles Considering Seasonal Uncertainty. IEMRE 2024, Springer)
 
   title={Optimal Scheduling of Plugin Electric Vehicles Considering Seasonal Uncertainty},
   author={Das, Sourav and Bera, Soumyadeep and Modi, Shruti and Dutta, Rupali},
