@@ -17,8 +17,6 @@ The project proposes a Differential Evolution (DE)-based optimization model to m
 - **Publications**:  
   - 📄 Springer LNEE Conference Paper (IEMRE 2024)
   - *"Optimal Scheduling of Plugin Electric Vehicles Considering Seasonal Uncertainty"*  
-  - 📝 IEEE Journal Paper (Under Review)
-  - *"Electric Aircraft Charging: Current Status and Challenges"* 
 
 ## 📂 Repository Contents
 - **7th-Semester**: Conference papers, technical reports  
